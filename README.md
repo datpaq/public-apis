@@ -351,6 +351,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Church Calendar](http://calapi.inadiutorium.cz/) | Catholic liturgical calendar | No | No | Unknown |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | No | No | Unknown |
 | [DigiDates](https://digidates.de/en/) | Various date and time calculations | No | Yes | Yes |
+| [DATPAQ Convert Time](https://datpaq.com/api-list/convert-time?utm_source=publicapis_dev&utm_medium=directory&utm_campaign=catalog_listing) | Eliminate timezone confusion in your application. Convert times between global locations to simplify international bookings, scheduling, and coordination for users around the world. | `apiKey` | Yes | Yes |
 | [Festivo Public Holidays](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) | Fastest and most advanced public holiday and observance service on the market | `apiKey` | Yes | Yes |
 | [Generate iCAL](https://apyhub.com/utility/generator-ical) | Generates iCal calendar events that can be used across calendar applications | `apiKey` | Yes | Yes |
 | [Google Calendar](https://developers.google.com/google-apps/calendar/) | Display, create and modify Google calendar events | `OAuth`| Yes | Unknown |
