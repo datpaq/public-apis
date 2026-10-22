@@ -1787,6 +1787,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Convert Text to Speech API]( https://apyhub.com/utility/text-to-speech/) | This API converts any text to speech automatically | `apiKey`| Yes | Yes |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | `apiKey` | Yes | Unknown |
 | [Detect Language API](https://apyhub.com/utility/language-detector) | This API detects the language from any text (+ 50 languages supported) | `apiKey` | Yes | Yes |
+| [DATPAQ Profanity](https://datpaq.com/api-list/profanity?utm_source=publicapis_dev&utm_medium=directory&utm_campaign=catalog_listing) | Moderate comments, chats, and submissions for profanity to help keep learning platforms, online communities, and other applications welcoming and appropriate. | `apiKey` | Yes | Yes |
 | [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | `apiKey` | Yes | Unknown |
 | [Fuzzy Text Search API](https://apyhub.com/utility/search-fuzzy-text) | The Fuzzy Text Search API finds close matches for user queries, handling typos and partial inputs to deliver relevant results quickly and accurately | `apiKey` | Yes | Yes |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | `apiKey` | Yes | Unknown |
