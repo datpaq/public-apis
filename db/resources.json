@@ -3180,7 +3180,7 @@
     },
     {
         "API": "DATPAQ",
-        "Description": "Developer-first APIs. Enterprise-ready infrastructure. Sampla data, avatars, image processing and a lot more.",
+        "Description": "Ship faster with agent-ready APIs. Connect through code, CLI, or MCP—all on one plan.",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
