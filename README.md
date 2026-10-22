@@ -1749,6 +1749,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Bacon Ipsum](https://baconipsum.com/json-api/) | A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
 | [Dicebear Avatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | No | Yes | No |
 | [DummyJSON](https://dummyjson.com/) | Generate dummy data in JSON format | Yes | Yes | Unknown |
+| [DATPAQ Sample Data](https://datpaq.com/api-list/sample-data?utm_source=publicapis_dev&utm_medium=directory&utm_campaign=catalog_listing) | Quickly generate realistic test data with custom schemas and fields to populate prototypes, test API responses, and demo your application without production data | `apiKey` | Yes | Yes |
 | [Faker](https://fakerjs.dev/) | Generate massive amounts of fake (but realistic) data for testing and development. | No | Yes | Unknown |
 | [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | No | Yes | Yes |
 | [FakeStoreAPI](https://fakestoreapi.com/) | Fake store rest API for your e-commerce or shopping website prototype | No | Yes | Unknown |
