@@ -1064,6 +1064,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Country](http://country.is/) | Get your visitor's country from their IP | No | Yes | Yes |
 | [CountryStateCity](https://countrystatecity.in/) | World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format | `apiKey` | Yes | Yes |
 | [Ducks Unlimited](https://gis.ducks.org/datasets/du-university-chapters/api) | API explorer that gives a query URL with a JSON response of locations and cities | No | Yes | No |
+| [DATPAQ IP Geolocation](https://datpaq.com/api-list/ip-geolocation?utm_source=publicapis_dev&utm_medium=directory&utm_campaign=catalog_listing) | Build location-aware features without the lookup infrastructure. Resolve IP addresses to tailor content, apply regional settings, and strengthen security checks with a single API call. | `apiKey` | Yes | Yes |
 | [FreeGeoIP](https://freegeoip.app/) | Free geo ip information, no registration required. 15k/hour rate limit | No | Yes | Yes |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
 | [Geoapify](https://www.geoapify.com/api/geocoding-api/) | Forward and reverse geocoding, address autocomplete | `apiKey` | Yes | Yes |
