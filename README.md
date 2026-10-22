@@ -1490,6 +1490,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Dagpi](https://dagpi.xyz) | Image manipulation and processing | `apiKey` | Yes | Unknown |
 | [Duply](https://app.duply.co/docs) | Generate, Edit, Scale and Manage Images and Videos Smarter & Faster | `apiKey` | Yes | Yes |
 | [DynaPictures](https://dynapictures.com/docs/) | Generate Hundreds of Personalized Images in Minutes | `apiKey` | Yes | Yes |
+| [DATPAQ Image Processing](https://datpaq.com/api-list/image-processing?utm_source=publicapis_dev&utm_medium=directory&utm_campaign=catalog_listing) | Transform images into web-ready assets. Compress, resize, and convert product photos and content uploads for faster storefronts and smoother publishing workflows. | `apiKey` | Yes | Yes |
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth`| Yes | Unknown |
 | [Generate Image Thumbnails API](https://apyhub.com/utility/image-processor-thumbnail) | Generate and optimise Image Thumbnails from any image with this API and save hours of image editing | `apiKey`| Yes | Yes |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth`| Yes | Unknown |
